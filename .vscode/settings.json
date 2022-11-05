@@ -1,0 +1,13 @@
+{
+  "emmet.includeLanguages": {
+    "django-html": "html"
+  },
+  "editor.defaultFormatter": "HookyQR.beautify",
+  "beautify.language": {
+    "html": [
+      "htm",
+      "html",
+      "django-html"
+    ]
+  }
+}
